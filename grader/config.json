@@ -1,0 +1,18 @@
+{
+  "TEMP_DIR": "/grader/tmp",
+  "NAND": "tools",
+  "PYTHON": "python",
+  "JAVAC": "javac",
+  "JAVA": "java",
+  "C": "gcc",
+  "CPP": "g++",
+  "RUBY": "ruby",
+  "DOTNET": "dotnet",
+  "PERL": "perl",
+  "NODEJS": "node",
+  "GO": "go",
+  "SWIFT": "swift",
+  "PHP": "php"
+
+
+}
