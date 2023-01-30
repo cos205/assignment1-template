@@ -23,4 +23,4 @@ the autograder.
 
 ## Collaboration
 
-You may work on this assignment in teams of two.
+You may work on this assignment in teams of two, or individually.
