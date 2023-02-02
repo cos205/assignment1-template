@@ -18,7 +18,7 @@ When you push a change to github, an autograder script will be triggered. You wi
 When the workflow is complete (it may take a few seconds) you will see a grade assigned to the commit based on whether your chips (completed HDL programs) passed our tests.
 The output will look similar to the one you see when you run the test scripts locally, using the hardware simulator on your machine.
 
-The autograding workflow may have some additional output to help you debug your chips, when necessary. But, you must test your chips locally, and not rely solely on the autograder.
+The autograding workflow may have some additional output to help you debug your chips. But, you must test your chips locally, and not rely solely on the autograder.
 
 ## Collaboration
 
