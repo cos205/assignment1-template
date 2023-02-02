@@ -1,10 +1,10 @@
-# Assignment 1
+# Project 1
 
 ## Available materials
 
 ```/tools```
 
-This directory includes all the simulators and tools for this assignment. 
+This directory includes all the simulators and tools for this project. 
 Refer to this [guide](https://drive.google.com/file/d/1QDYIvriWBS_ARntfmZ5E856OEPpE4j1F/view) on this [website](https://www.nand2tetris.org/software) 
 for additional help setting up the simulator locally.
 
@@ -23,4 +23,4 @@ the autograder.
 
 ## Collaboration
 
-You may work on this assignment in teams of two, or individually.
+You may work on this project in teams of two, or individually.
